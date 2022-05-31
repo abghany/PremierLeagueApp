@@ -8,7 +8,7 @@ Submission untuk kelas Belajar Membuat Aplikasi Android untuk Pemula di [Dicodin
 
 ### Screenshot
 
-<img src="https://user-images.githubusercontent.com/73926625/171074796-bdfbc4b0-c2f5-47cc-bd34-96ddcdd6af62.png" width="45%">
+<img src="https://user-images.githubusercontent.com/73926625/171074796-bdfbc4b0-c2f5-47cc-bd34-96ddcdd6af62.png" width="55%">
 
 ### Submission Checklists (Get 5 Stars)
 
