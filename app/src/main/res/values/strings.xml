@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Premier League</string>
+
+    <string name="team_logo">Team Logo</string>
+    <string name="teams_name">Team Name</string>
+    <string name="overview_team">Overview</string>
+    <string name="overview_description">Overview Description</string>
+    <string name="homebase_title">Homebase</string>
+    <string name="homebase_content">Homebase Content</string>
+
+    <string name="profile_name">Abdul Ghany At-Tirmidzi</string>
+    <string name="profile_email">aghany08@gmail.com</string>
+    <string name="created_by">Created by Ghany At-Tirmidzi</string>
+
+    <string name="profile">Profile Page</string>
+    <string name="about">About Me</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="detail_team">Detail Team</string>
+    <string name="btn_back">Button Back</string>
+
+</resources>
